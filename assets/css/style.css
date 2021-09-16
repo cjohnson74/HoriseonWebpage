@@ -2,22 +2,32 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 body {
     background-color: #d9dcd6;
+    align-items: top;
 }
 
 .header {
-    padding: 20px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    display: flex;
+    background-size: cover;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    display: flex;
 }
 
 .header h1 .seo {
@@ -30,6 +40,8 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: flex;
+    justify-content: stretch;
 }
 
 .header div ul {
@@ -73,6 +85,8 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .benefits {
@@ -81,9 +95,10 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: auto;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    display: flex;
 }
 
 .benefit-lead {
@@ -137,7 +152,7 @@ p {
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 50%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -146,7 +161,7 @@ p {
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 50%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -155,7 +170,7 @@ p {
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 50%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -186,6 +201,32 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+@media screen and (max-width: 800px) {
+    .benefits {
+        display: flex;
+        flex-direction: row;
+        align-content: center;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin-left: 20px;
+        width: auto;
+    }
+    .search-engine-optimization,
+    .online-reputation-management,
+    .social-media-marketing {
+        padding-right: 20px;
+    }
+    .content {
+        width: auto;
+        margin-right: 20px;
+    }
+    .header,
+    .header ul {
+        flex-direction: column;
+    }
 }
 
 .footer {

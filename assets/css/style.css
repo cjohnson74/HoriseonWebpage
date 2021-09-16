@@ -8,6 +8,10 @@
     align-items: center;
 }
 
+title {
+    display: none;
+}
+
 body {
     background-color: #d9dcd6;
     align-items: top;
@@ -74,11 +78,6 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {

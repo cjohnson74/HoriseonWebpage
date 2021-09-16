@@ -26,6 +26,7 @@ body {
     color: #ffffff;
     display: flex;
     background-size: cover;
+    justify-content: space-evenly;
 }
 
 .header h1 {

@@ -5,7 +5,11 @@
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 </h3>
 
-[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented) 👨🏽‍💻
+
+
+-------->[LIST OF SKILLS I USED TO COMPLETE THIS PROJECT](#skillsimplemented)
+------>[SCREENSHOTS OF THE WEBSITE](#screenshots)
+---->[HORISEON WEBPAGE](https://cjohnson74.github.io/HoriseonWebpage/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,3 +51,15 @@ This website was not fully optimized for search engines on all devices for all u
 <p align="center">
   <img src="https://www.lambdatest.com/blog/wp-content/uploads/2021/06/ezgif.com-gif-maker-3.gif" alt="FlexBox Gif"/>
 </p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1 id="screenshots" align="center">
+    Screenshot of The Optimized Horiseon Webpage
+    <img src="assets/images/screenshot1.png" alt="Screenshot 1"/>    
+    <img src="assets/images/screenshot2.png" alt="Screenshot 2"/>    
+    <img src="assets/images/screenshot3.png" alt="Screenshot 3"/>  
+    --Screenshots Below: Website on Screens 800 Pixels in Width--    
+    <img src="assets/images/screenshot4.png" alt="Screenshot 4"/>    
+    <img src="assets/images/screenshot5.png" alt="Screenshot 5"/>    
+</h1>

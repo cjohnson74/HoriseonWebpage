@@ -58,12 +58,12 @@ nav ul li a {
 }
 
 .benefits p {
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
 }
 
 .content p {
-    font-size: 25px;
+    font-size: 16px;
     text-align:left;
 }
 
@@ -126,8 +126,9 @@ nav ul li a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    justify-content: center;
-    flex-direction: column;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 
 .content img {
@@ -151,6 +152,7 @@ nav ul li a {
     .online-reputation-management,
     .social-media-marketing {
         padding-right: 20px;
+        flex-direction: column;
     }
     .content {
         width: auto;

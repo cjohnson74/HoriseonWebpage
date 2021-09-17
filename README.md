@@ -7,7 +7,7 @@ A marketing agency wants an optimized webpage for search engines and a codebase 
 
 
 
------------------>[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented)---------------------->[SEE SCREENSHOTS OF THE WEBSITE](#screenshots)
+--------------->[CLICK! TO SEE SKILLS USED IN THIS PROJECT](#skillsimplemented)---------------------->[CLICK! TO SEE SCREENSHOTS OF THE WEBSITE](#screenshots)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

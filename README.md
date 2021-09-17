@@ -1,5 +1,5 @@
 <h1 align="center">
-    #HoriseonWebpage
+    Horiseon Webpage
 </h1>
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 

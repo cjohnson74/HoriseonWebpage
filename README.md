@@ -4,10 +4,10 @@
 <h3 align="center">
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 </h3>
-## Table of Contents (Optional)
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
+<h2 align="center">
 [SEE SKILLS USED IN THIS PROJECT](#skillsimplemented)
+</h2>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

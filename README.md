@@ -60,4 +60,3 @@ This website was not fully optimized for search engines on all devices for all u
     <img src="assets/images/screenshot4.png" alt="Screenshot 4"/>    
     <img src="assets/images/screenshot5.png" alt="Screenshot 5"/>    
 </h1>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------

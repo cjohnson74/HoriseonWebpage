@@ -6,6 +6,7 @@ A marketing agency wants an optimized webpage for search engines and a codebase 
 </h3>
 
 [SEE SKILLS USED IN THIS PROJECT](#skillsimplemented) 👨🏽‍💻
+[SEE SCREENSHOTS OF WEBSITE](#screenshots) 📸
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,7 +51,7 @@ This website was not fully optimized for search engines on all devices for all u
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1 align="center">
+<h1 id="screenshots" align="center">
     Screenshot of The Optimized Horiseon Webpage
     <img src="assets/images/screenshot1.png" alt="Screenshot 1"/>    
     <img src="assets/images/screenshot2.png" alt="Screenshot 2"/>    
@@ -59,3 +60,4 @@ This website was not fully optimized for search engines on all devices for all u
     <img src="assets/images/screenshot4.png" alt="Screenshot 4"/>    
     <img src="assets/images/screenshot5.png" alt="Screenshot 5"/>    
 </h1>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------

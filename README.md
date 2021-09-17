@@ -1,4 +1,6 @@
-# HoriseonWebpage
+<p align="center">
+    #HoriseonWebpage
+</p>
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 
 -------------------------------------------------------------------------------------------------
@@ -21,4 +23,6 @@ This website was not fully optimized for search engines on all devices for all u
 
 -------------------------------------------------------------------------------------------------
 
-![FlexBox Gif](https://www.lambdatest.com/blog/wp-content/uploads/2021/06/ezgif.com-gif-maker-3.gif)
+<p align="center">
+    ![FlexBox Gif](https://www.lambdatest.com/blog/wp-content/uploads/2021/06/ezgif.com-gif-maker-3.gif)
+</p>

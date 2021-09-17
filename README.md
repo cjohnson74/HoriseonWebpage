@@ -5,8 +5,7 @@
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 </h3>
 
-[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented)
-
+[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented) <img src="assets/images/arrow.gif" alt="Arrow"/>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -7,8 +7,9 @@ A marketing agency wants an optimized webpage for search engines and a codebase 
 
 
 
--------->[CLICK! LIST OF SKILLS I USED TO COMPLETE THIS PROJECT](#skillsimplemented)------>[CLICK! TO SEE SCREENSHOTS OF THE WEBSITE](#screenshots)
-
+-------->[LIST OF SKILLS I USED TO COMPLETE THIS PROJECT](#skillsimplemented)
+------>[SCREENSHOTS OF THE WEBSITE](#screenshots)
+---->[HORISEON WEBPAGE](https://cjohnson74.github.io/HoriseonWebpage/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -32,10 +32,10 @@ This website was not fully optimized for search engines on all devices for all u
 </h3>
 <h4>
     <ul align="center">
-        <li>CSS Flexbox</li>
-        <li>CSS Media Query</li>
-        <li>(HTML/CSS) Commenting</li>
-        <li>HTML5 Section Tags</li>
+        <li align="center">CSS Flexbox</li>
+        <li align="center">CSS Media Query</li>
+        <li align="center">(HTML/CSS) Commenting</li>
+        <li align="center">HTML5 Section Tags</li>
     </ul>
 </h4>
 

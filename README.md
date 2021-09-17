@@ -47,3 +47,15 @@ This website was not fully optimized for search engines on all devices for all u
 <p align="center">
   <img src="https://www.lambdatest.com/blog/wp-content/uploads/2021/06/ezgif.com-gif-maker-3.gif" alt="FlexBox Gif"/>
 </p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1 align="center">
+    Screenshot of The Optimized Horiseon Webpage
+    <img src="assets/images/screenshot1" alt="Screenshot 1"/>
+    <img src="assets/images/screenshot2" alt="Screenshot 2"/>
+    <img src="assets/images/screenshot3" alt="Screenshot 3"/>
+    --Screenshots Below: Website on Screens 800 Pixels in Width--
+    <img src="assets/images/screenshot4" alt="Screenshot 4"/>
+    <img src="assets/images/screenshot5" alt="Screenshot 5"/>
+</h1>

@@ -4,8 +4,13 @@
 <h3 align="center">
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 </h3>
+## Table of Contents (Optional)
+If your README is long, add a table of contents to make it easy for users to find what they need.
 
--------------------------------------------------------------------------------------------------
+[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h2 align="center">
     --What was my motivation?--
 </h2>
@@ -27,7 +32,7 @@ This website was not fully optimized for search engines on all devices for all u
 <h2>
 --What did I learn?--
 </h2>
-<h3 font-type="bold">
+<h3 id="skillsimplemented" font-type="bold">
   Skills Implemented:
 </h3>
 <h4>
@@ -39,7 +44,7 @@ This website was not fully optimized for search engines on all devices for all u
     </ul>
 </h4>
 
--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="https://www.lambdatest.com/blog/wp-content/uploads/2021/06/ezgif.com-gif-maker-3.gif" alt="FlexBox Gif"/>

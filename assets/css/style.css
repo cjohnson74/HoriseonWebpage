@@ -96,16 +96,19 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    justify-content: center;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    justify-content: center;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    justify-content: center;
 }
 
 .benefit-lead h3 {
@@ -183,16 +186,19 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-align: center;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-align: center;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    text-align: center;
 }
 
 @media screen and (max-width: 800px) {

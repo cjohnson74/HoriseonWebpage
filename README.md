@@ -29,10 +29,12 @@ This website was not fully optimized for search engines on all devices for all u
   How to properly implement:
 </h3>
 <h3>
-    -CSS Flexbox
-    -CSS Media Query
-    -(HTML/CSS) Commenting
-    -HTML5 Section Tags
+    <ol>
+        <li>CSS Flexbox</li>
+        <li>CSS Media Query</li>
+        <li>(HTML/CSS) Commenting</li>
+        <li>HTML5 Section Tags</li>
+    </ol>
 </h3>
 
 -------------------------------------------------------------------------------------------------

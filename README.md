@@ -28,7 +28,7 @@ This website was not fully optimized for search engines on all devices for all u
 --What did I learn?--
 </h2>
 <h3 font-type="bold">
-  How to properly implement:
+  Skills Implemented:
 </h3>
 <h4>
     <ul>

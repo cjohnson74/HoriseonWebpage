@@ -5,8 +5,10 @@
 A marketing agency wants an optimized webpage for search engines and a codebase that follows accessibility standards.
 </h3>
 
-[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented) 👨🏽‍💻
-[SEE SCREENSHOTS OF WEBSITE](#screenshots) 📸
+<ul align="center">
+    <li>[SEE SKILLS USED IN THIS PROJECT](#skillsimplemented) 👨🏽‍💻 </li>
+    <li>[SEE SCREENSHOTS OF WEBSITE](#screenshots) 📸 </li>
+</ul>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

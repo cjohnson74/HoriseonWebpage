@@ -24,18 +24,18 @@ This was a challenge to implement the programming skills that I learned in the U
 <h4 align="center">
 This website was not fully optimized for search engines on all devices for all users. I made it more accessible for blind users, users on devives with screens less than 800px in width, and better organized code for other developers.
 </h4>
-<h2 align="center">
+<h2>
 --What did I learn?--
 </h2>
-<h3 align="center" font-type="bold">
+<h3font-type="bold">
   How to properly implement:
 </h3>
 <h4>
-    <ul align="center">
-        <li align="center">CSS Flexbox</li>
-        <li align="center">CSS Media Query</li>
-        <li align="center">(HTML/CSS) Commenting</li>
-        <li align="center">HTML5 Section Tags</li>
+    <ul>
+        <li>CSS Flexbox</li>
+        <li>CSS Media Query</li>
+        <li>(HTML/CSS) Commenting</li>
+        <li>HTML5 Section Tags</li>
     </ul>
 </h4>
 

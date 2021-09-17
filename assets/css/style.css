@@ -31,7 +31,7 @@ body {
     display: flex;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -93,74 +93,27 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-    justify-content: center;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-    justify-content: center;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
     justify-content: center;
 }
 
-.benefit-lead h3 {
+.benefits h3 {
     margin-bottom: 10px;
+    text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-}
-
-.benefit-lead img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 50%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    justify-content: center;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 50%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-    justify-content: center;
-}
-
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -171,36 +124,17 @@ p {
     justify-content: center;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
+.content img {
+    max-height: 250px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    text-align: center;
+    text-align: center; /*Centers the text*/
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-    text-align: center;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-    text-align: center;
-}
-
+/*This CSS Media Query allows for the webpage to be better accessible for screens that are less than 800px wide*/
 @media screen and (max-width: 800px) {
     .benefits {
         flex-wrap: nowrap;
@@ -217,7 +151,7 @@ p {
         margin-right: 20px;
     }
     .header,
-    ul {
+    nav ul {
         flex-direction: column;
     }
 }

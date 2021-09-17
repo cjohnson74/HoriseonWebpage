@@ -27,15 +27,15 @@ This website was not fully optimized for search engines on all devices for all u
 <h2>
 --What did I learn?--
 </h2>
-<h3font-type="bold">
+<h3 font-type="bold">
   How to properly implement:
 </h3>
 <h4>
     <ul>
         <li>CSS Flexbox</li>
         <li>CSS Media Query</li>
-        <li>(HTML/CSS) Commenting</li>
         <li>HTML5 Section Tags</li>
+        <li>(HTML/CSS) Commenting</li>
     </ul>
 </h4>
 

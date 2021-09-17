@@ -57,10 +57,17 @@ nav ul li a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
+.benefits p {
+    font-size: 18px;
     text-align: center;
 }
+
+.content p {
+    font-size: 25px;
+    text-align:left;
+}
+
+
 
 .hero {
     height: 800px;
@@ -122,10 +129,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
     justify-content: center;
+    flex-direction: column;
 }
 
 .content img {
-    max-height: 250px;
+    max-height: 200px;
 }
 
 .content h2 {

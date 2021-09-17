@@ -27,10 +27,10 @@ This website was not fully optimized for search engines on all devices for all u
 <h2 align="center">
 --What did I learn?--
 </h2>
-<h4 font-type="bold">
+<h4 align="center" font-type="bold">
   How to properly implement:
 </h4>
-<h4>
+<h4 align="center">
     <ul>
         <li>CSS Flexbox</li>
         <li>CSS Media Query</li>

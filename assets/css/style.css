@@ -142,7 +142,7 @@ nav ul li a {
 }
 
 /*This CSS Media Query allows for the webpage to be better accessible for screens that are less than 800px wide*/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 835px) {
     .benefits {
         flex-wrap: nowrap; /*Side bar moves to the bottom of the page*/
         margin-left: 20px;
